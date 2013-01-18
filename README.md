@@ -1,0 +1,4 @@
+Assets
+======
+
+Assets module
